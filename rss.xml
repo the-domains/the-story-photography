@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Story Photography]]></title>
         <description><![CDATA[The Story Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-story-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 18:50:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Dec 2015 18:57:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-story-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test post]]></title>
+            <description><![CDATA[<article><h1>Test post</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9f2bd1a-a950-49c1-9b12-19b22303cc3b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-story-photography/test-post/index.html</link>
+            <guid isPermaLink="false">f8f50dcc-3154-4845-b444-999e7fe8f729</guid>
+            <pubDate>Sat, 05 Dec 2015 18:57:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/the-story-photography/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">93896720-496e-47a4-8abd-564aa43bdb3d</guid>
             <pubDate>Sat, 05 Dec 2015 18:50:37 GMT</pubDate>
         </item>
