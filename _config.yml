@@ -1,7 +1,7 @@
 name: The Story Photography
 favicon: null
-layout_spectrum: 0.48343836585991085
-typography_spectrum: 0.8156555874738842
+layout_spectrum: 0.75329
+typography_spectrum: 0.85323
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.38500810810364783
-  lightness: 0.23204972059465945
-  saturation: 0.18168131494894624
-  rhythmicContrast: 0.7415003709029406
+    - '#d4d5d5'
+    - '#00babd'
+    - '#000000'
+    - '#00ffff'
+    - '#ffffff'
+  brandStrength: 0.6875
+  lightness: 0.875
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
